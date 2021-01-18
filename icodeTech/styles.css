@@ -16,8 +16,8 @@ section{
 header{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(16, 29,44,.95), rgba(16, 29,44,.95)),
-                url('images/header-bg.jpg') center no-repeat;
+    background: linear-gradient(rgba(16, 29,44,.85), rgba(16, 29,44,.85)),
+                url('images/technology.jpg') center no-repeat;
     background-size: cover;
     position: relative;
 }
@@ -92,12 +92,12 @@ header > .container {
 }
 .hero-text h1{
     font-family: 'Niconne', cursive;
-    color: #c69963;
+    color: #f088ad;
 }
 .btn{
     width: 100px;
     padding: 5px 0 !important;
-    border: 1px solid #c69963;
+    border: 1px solid #f088ad;
     position: relative;
     overflow: hidden;
 }
@@ -128,16 +128,16 @@ header > .container {
 
  .section-heading h1{
      font-family: 'Niconne', cursive;
-     color: #c69963;
+     color: #f088ad;
  }
  .about .btn{
      width: 150px;
-     color: #c69963 !important;
+     color: #f088ad !important;
      transition: background-color 650ms;
  }
  .about .btn:hover{
      color: #fff !important;
-     background-color: #c69963;
+     background-color: #f088ad;
  }
 
  /* menu */
@@ -145,7 +145,7 @@ header > .container {
      background-color: #101D2C;
  }
  .shop-info i {
-     color: #c69963;
+     color: #f088ad;
      font-size: 50px;
  }
  .shop-info h1{
@@ -184,7 +184,7 @@ header > .container {
      margin: auto;
  }
  .menu-item-desc h6{
-     color: #c69963;
+     color: #f088ad;
      font-size: 20px;
  }
  .menu-item-desc h1{
@@ -203,8 +203,9 @@ header > .container {
 }
 .card-body h6{
     font-size: 16px;
-    color: #c69963;
+    color: #f088ad;
 }
+
 
  /* media queries */
 
@@ -272,7 +273,7 @@ header > .container {
         position: absolute;
         left: 0;
         bottom: -3px;
-        background-color: #c69963;
+        background-color: #f088ad;
         width: 100%;
         height: 2px;
         transform: scaleX(0);
@@ -304,6 +305,6 @@ header > .container {
     }
     .menu-item-desc .btn{
         color: #fff !important;
-        background-color: #c69963;
+        background-color: #f088ad;
     }
  }
