@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Niconne&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Teko:300,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
 /* globals */
 a{
@@ -121,7 +122,7 @@ header > .container {
      text-transform: uppercase;
      color: #101D2C;
      line-height: 0;
-     font-family: 'Teko',sans-serif;
+     font-family: 'Lato', sans-serif;
      font-weight: 300;
      letter-spacing: 1px;
  }
@@ -149,10 +150,10 @@ header > .container {
      font-size: 50px;
  }
  .shop-info h1{
-     font-family: 'Teko', sans-serif;
+     font-family: 'Lato', sans-serif;;
      font-size: 25px;
      font-weight: 300;
-     text-transform: uppercase;
+     /*text-transform: uppercase;*/
  }
  .shop-info p,
  .shop-info address{
@@ -190,15 +191,15 @@ header > .container {
  .menu-item-desc h1{
      color: #101D2C;
      font-size: 30px;
-     letter-spacing: 10px;
-     font-family: 'Teko', sans-serif;
+     /*letter-spacing: 10px;*/
+     font-family: 'Lato', sans-serif;
  }
 
  /* chef section */
 .card-body h1{
     font-size: 25px;
     letter-spacing: 1px;
-    font-family: 'Teko', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: 300;
 }
 .card-body h6{
