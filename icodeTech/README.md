@@ -1,2 +1,2 @@
-# Bakery-template
-A bootstrap template for a bakery site
+# Bessel-template
+A bootstrap template for a web page.
